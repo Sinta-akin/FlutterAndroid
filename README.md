@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 # FlutterAndroid
 
 Building Android app using flutter.
+=======
+# AutoMate
+This is our third semester android application built on flutter and dart 
+=======
+# automate
+
+Our third semester android project based on flutter and dart.
+>>>>>>> 8d9c820
 
 ## Getting Started
 
@@ -15,3 +24,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8d9c820
