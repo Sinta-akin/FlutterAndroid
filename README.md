@@ -1,14 +1,6 @@
 # FlutterAndroid
 
 Building Android app using flutter.
-=======
-# AutoMate
-This is our third semester android application built on flutter and dart 
-=======
-# automate
-
-Our third semester android project based on flutter and dart.
-
 
 ## Getting Started
 
