@@ -51,11 +51,11 @@ class _LoginScreenState extends State<LoginScreen> {
               Expanded(
                 child: SocialMediaCard(
                   label: "Facebook",
-                  imagePath: Facebook,
+                  imagePath: facebook,
                 ),
               ),
               Expanded(
-                child: SocialMediaCard(imagePath: Google, label: "Google"),
+                child: SocialMediaCard(imagePath: google, label: "Google"),
               ),
             ],
           ),

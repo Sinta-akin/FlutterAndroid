@@ -1,2 +1,2 @@
-const String Facebook = "assets/images/fb.png";
-const String Google = "assets/images/google (2).png";
+const String facebook = "assets/images/fb.png";
+const String google = "assets/images/google (2).png";

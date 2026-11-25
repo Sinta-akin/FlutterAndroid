@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
 class SocialMediaCard extends StatelessWidget {
-  String imagePath;
-  String label;
+  final String imagePath;
+  final String label;
 
-  SocialMediaCard({
+  const SocialMediaCard({
     super.key,
     required this.imagePath,
     required this.label,
